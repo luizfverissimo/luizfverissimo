@@ -1,6 +1,6 @@
 ### Hi there, I'm Luiz Fernando Veríssimo 👋 
 
-## I'm geek apprendice developer exploring programming dungeons ⚔
+## I'm geek developer exploring programming dungeons ⚔
 
 - 🔭 I’m currently working on [Next Level Week 2](https://github.com/luizfverissimo/next-level-week-2-omnistack).
 - 🌱 I’m currently learning React Native and React.JS.
