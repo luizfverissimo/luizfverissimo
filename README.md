@@ -3,7 +3,7 @@
 ## I'm geek developer exploring programming dungeons ⚔
 
 - 🔭 I’m currently working on [Scotland Yard App](https://github.com/luizfverissimo/scotland-yard).<br/>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=scotland-yard)](https://github.com/luizfverissimo/scotland-yard)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=scotlandyard)](https://github.com/luizfverissimo/scotland-yard)
 - 🌱 I’m currently learning React Native and React.JS.
 - 👯 I’m looking to collaborate in projects that use the technologies that I'm learning at the moment.
 - ⚡ Fun fact: I have phd in in physiological sciences and I am a university professor.
