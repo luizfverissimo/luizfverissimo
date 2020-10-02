@@ -2,8 +2,8 @@
 
 ## I'm geek developer exploring programming dungeons ⚔
 
-- 🔭 I’m currently working on [Ruptiva Code-Challenge - TOP10's](https://github.com/luizfverissimo/ruptiva-code-challenge-top10).<br/>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=ruptiva-code-challenge-top10)](https://github.com/luizfverissimo/ruptiva-code-challenge-top10)
+- 🔭 I’m currently working on [WDNA Encurtador de URLs](https://github.com/luizfverissimo/WDNA-url-shortener).<br/>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=WDNA-url-shortener)](https://github.com/luizfverissimo/WDNA-url-shortener)
 - 🌱 I’m currently learning React Native and React.JS.
 - 👯 I’m looking to collaborate in projects that use the technologies that I'm learning at the moment.
 - ⚡ Fun fact: I have phd in in physiological sciences and I am a university professor.
