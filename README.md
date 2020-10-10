@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [WDNA Encurtador de URLs](https://github.com/luizfverissimo/WDNA-url-shortener).<br/>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=WDNA-url-shortener)](https://github.com/luizfverissimo/WDNA-url-shortener)
-- 🌱 I’m currently learning React Native and React.JS.
+- 🌱 I’m currently learning Vue.js.
 - 👯 I’m looking to collaborate in projects that use the technologies that I'm learning at the moment.
 - ⚡ Fun fact: I have phd in in physiological sciences and I am a university professor.
 
