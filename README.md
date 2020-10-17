@@ -6,7 +6,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=next-level-week-3-omnistack)](https://github.com/luizfverissimo/next-level-week-3-omnistack)
 - 🌱 I’m currently learning Vue.js.
 - 👯 I’m looking to collaborate in projects that use the technologies that I'm learning at the moment.
-- ⚡ Fun fact: I have phd in in physiological sciences and I am a university professor.
+- ⚡ Fun fact: I have phd in in physiological sciences and I am a university teacher.
 
 ### Connect with me:
 
