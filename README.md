@@ -3,7 +3,7 @@
 ## I'm geek developer exploring programming dungeons ⚔
 
 - 🔭 I’m currently working on [Offers Aggregator](https://github.com/luizfverissimo/offer-agregattor).<br/>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=offers-agregattor)](https://github.com/luizfverissimo/offer-agregattor)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=offer-agregattor)](https://github.com/luizfverissimo/offer-agregattor)
 - 🌱 I’m currently learning Next.js.
 - 👯 I’m looking to collaborate in projects that use the technologies that I'm learning at the moment.
 - ⚡ Fun fact: I have phd in in physiological sciences and I am a university teacher.
