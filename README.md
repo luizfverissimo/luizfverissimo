@@ -15,5 +15,5 @@
 <br />
 <br />
 
-[![LF Verissimo's github stats](https://github-readme-stats.vercel.app/api?username=luizfverissimo&theme=bear)](https://github.com/anuraghazra/github-readme-stats)<br/>
+<!-- [![LF Verissimo's github stats](https://github-readme-stats.vercel.app/api?username=luizfverissimo&theme=bear)](https://github.com/anuraghazra/github-readme-stats)<br/> -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizfverissimo&layout=compact&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
