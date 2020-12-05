@@ -7,7 +7,7 @@
 
 🚧 I’m currently working on [Offers Aggregator](https://github.com/luizfverissimo/offer-agregattor).<br/>
 </br>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=offer-aggregator)](https://github.com/luizfverissimo/offer-aggregator)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=offer-aggregator&theme=bear)](https://github.com/luizfverissimo/offer-aggregator)
 
 
 ### Languages and Tools:
@@ -24,4 +24,4 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizfverissimo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizfverissimo&layout=compact&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
