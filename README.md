@@ -11,17 +11,7 @@
 
 ### 🔧 Languages and Tools:
 
-<img align="center" alt="Visual Studio Code" src="https://img.shields.io/badge/-VS%20Code-2E2D2E?style=flat-square&labelColor=FD3A69&logo=visual-studio-code&logoColor=white" />
-<img align="center" alt="HTML5" src="https://img.shields.io/badge/-HTML5-2E2D2E?style=flat-square&labelColor=FD3A69&logo=HTML5&logoColor=white" />
-<img align="center" alt="CSS3" src="https://img.shields.io/badge/-CSS3-2E2D2E?style=flat-square&labelColor=FD3A69&logo=css3&logoColor=white" />
-<img align="center" alt="SASS" src="https://img.shields.io/badge/-Sass-2E2D2E?style=flat-square&labelColor=FD3A69&logo=sass&logoColor=white" />
-<img align="center" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-2E2D2E?style=flat-square&labelColor=FD3A69&logo=javascript&logoColor=white" />
-<img align="center" alt="React" src="https://img.shields.io/badge/-React-2E2D2E?style=flat-square&labelColor=FD3A69&logo=react&logoColor=white" />
-<img align="center" alt="Styled Components" src="https://img.shields.io/badge/-Styled%20Components-2E2D2E?style=flat-square&labelColor=FD3A69&logo=styled-components&logoColor=white" />
-<img align="center" alt="Node.js" src="https://img.shields.io/badge/-Node.js-2E2D2E?style=flat-square&labelColor=FD3A69&logo=node.js&logoColor=white" />
-<img align="center" alt="Next.js" src="https://img.shields.io/badge/-Next.js-2E2D2E?style=flat-square&labelColor=FD3A69&logo=next.js&logoColor=white" />
-<img align="center" alt="Gatsby" src="https://img.shields.io/badge/-Gatsby-2E2D2E?style=flat-square&labelColor=FD3A69&logo=gatsby&logoColor=white" />
-<img align="center" alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-2E2D2E?style=flat-square&labelColor=FD3A69&logo=mongodb&logoColor=white" />
+<img align="center" alt="Visual Studio Code" src="https://img.shields.io/badge/-VS%20Code-2E2D2E?style=flat-square&labelColor=FD3A69&logo=visual-studio-code&logoColor=white" /> <img align="center" alt="HTML5" src="https://img.shields.io/badge/-HTML5-2E2D2E?style=flat-square&labelColor=FD3A69&logo=HTML5&logoColor=white" /> <img align="center" alt="CSS3" src="https://img.shields.io/badge/-CSS3-2E2D2E?style=flat-square&labelColor=FD3A69&logo=css3&logoColor=white" /> <img align="center" alt="SASS" src="https://img.shields.io/badge/-Sass-2E2D2E?style=flat-square&labelColor=FD3A69&logo=sass&logoColor=white" /> <img align="center" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-2E2D2E?style=flat-square&labelColor=FD3A69&logo=javascript&logoColor=white" /> <img align="center" alt="React" src="https://img.shields.io/badge/-React-2E2D2E?style=flat-square&labelColor=FD3A69&logo=react&logoColor=white" /> <img align="center" alt="Styled Components" src="https://img.shields.io/badge/-Styled%20Components-2E2D2E?style=flat-square&labelColor=FD3A69&logo=styled-components&logoColor=white" /> <img align="center" alt="Node.js" src="https://img.shields.io/badge/-Node.js-2E2D2E?style=flat-square&labelColor=FD3A69&logo=node.js&logoColor=white" /> <img align="center" alt="Next.js" src="https://img.shields.io/badge/-Next.js-2E2D2E?style=flat-square&labelColor=FD3A69&logo=next.js&logoColor=white" /> <img align="center" alt="Gatsby" src="https://img.shields.io/badge/-Gatsby-2E2D2E?style=flat-square&labelColor=FD3A69&logo=gatsby&logoColor=white" /> <img align="center" alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-2E2D2E?style=flat-square&labelColor=FD3A69&logo=mongodb&logoColor=white" />
 <br />
 <br />
 
