@@ -1,7 +1,8 @@
 # <img alt="Logo LF Verissimo" src="./lf_verissimo_logo_light.png" width="230px" />
 ## Fullstack Developer
 
-[![Linkedin Badge](https://img.shields.io/badge/LF Verissimo-9D0191?style=flat-square&labelColor=120078&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-fernando-veríssimo-485323164)](https://www.linkedin.com/in/luiz-fernando-veríssimo-485323164)
+[![Linkedin Badge](https://img.shields.io/badge/-LF%20Verissimo-2E2D2E?style=flat-square&labelColor=FD3A69&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-fernando-veríssimo-485323164)](https://www.linkedin.com/in/luiz-fernando-veríssimo-485323164)
+[![Gmail Badge](https://img.shields.io/badge/-luizfverissimo@gmail.com-2E2D2E?style=flat-square&labelColor=FD3A69&logo=gmail&logoColor=white&link=mailto:uizfverissimo@gmail.com)](mailto:luizfverissimo@gmail.com)
 
 
 - 🚧 I’m currently working on [Offers Aggregator](https://github.com/luizfverissimo/offer-agregattor).<br/>
