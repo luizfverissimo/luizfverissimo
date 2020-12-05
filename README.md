@@ -1,12 +1,11 @@
-### Hi there, I'm Luiz Fernando Veríssimo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+# <img alt="Logo LF Verissimo" src="./lf_verissimo_logo_light.png" width="230px" />
+## Fullstack Developer
 
-## I'm geek developer exploring programming dungeons ⚔
+[![Linkedin Badge](https://img.shields.io/badge/LF Verissimo-9D0191?style=flat-square&labelColor=120078&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-fernando-veríssimo-485323164)](https://www.linkedin.com/in/luiz-fernando-veríssimo-485323164)
 
-- 🔭 I’m currently working on [Offers Aggregator](https://github.com/luizfverissimo/offer-agregattor).<br/>
+
+- 🚧 I’m currently working on [Offers Aggregator](https://github.com/luizfverissimo/offer-agregattor).<br/>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=offer-aggregator)](https://github.com/luizfverissimo/offer-aggregator)
-- 🌱 I’m currently learning Next.js.
-- 👯 I’m looking to collaborate in projects that use the technologies that I'm learning at the moment.
-- ⚡ Fun fact: I have phd in in physiological sciences and I am a university teacher.
 
 ### Connect with me:
 
