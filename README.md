@@ -5,14 +5,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-luizfverissimo@gmail.com-2E2D2E?style=flat-square&labelColor=FD3A69&logo=gmail&logoColor=white&link=mailto:uizfverissimo@gmail.com)](mailto:luizfverissimo@gmail.com)
 
 
-- 🚧 I’m currently working on [Offers Aggregator](https://github.com/luizfverissimo/offer-agregattor).<br/>
+🚧 I’m currently working on [Offers Aggregator](https://github.com/luizfverissimo/offer-agregattor).<br/>
+</br>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=offer-aggregator)](https://github.com/luizfverissimo/offer-aggregator)
 
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/luiz-fernando-veríssimo-485323164)
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/luizfv/)
-<br />
 
 ### Languages and Tools:
 
