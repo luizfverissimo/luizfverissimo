@@ -5,8 +5,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-luizfverissimo@gmail.com-2E2D2E?style=for-the-badge&labelColor=FD3A69&logo=gmail&logoColor=white&link=mailto:uizfverissimo@gmail.com)](mailto:luizfverissimo@gmail.com)
 
 
-### 🚧 I’m currently working on: [Offers Aggregator](https://github.com/luizfverissimo/offer-agregattor).
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=offer-aggregator&theme=bear)](https://github.com/luizfverissimo/offer-aggregator)
+### 🚧 I’m currently working on: [Portfolio](https://github.com/luizfverissimo/portfolio).
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=portfolio&theme=bear)](https://github.com/luizfverissimo/offer-aggregator)
 
 
 ### 🔧 Languages and Tools:
