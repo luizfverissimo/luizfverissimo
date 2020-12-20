@@ -6,7 +6,7 @@
 
 
 ### 🚧 I’m currently working on: [Portfolio](https://github.com/luizfverissimo/portfolio).
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=portfolio&theme=bear)](https://github.com/luizfverissimo/offer-aggregator)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=portfolio&theme=bear)](https://github.com/luizfverissimo/portfolio)
 
 
 ### 🔧 Languages and Tools:
