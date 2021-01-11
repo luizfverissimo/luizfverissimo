@@ -6,8 +6,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-luizfverissimo@gmail.com-2E2D2E?style=for-the-badge&labelColor=FD3A69&logo=gmail&logoColor=white&link=mailto:uizfverissimo@gmail.com)](mailto:luizfverissimo@gmail.com)
 
 
-### 🚧 I’m currently working on: [Portfolio](https://github.com/luizfverissimo/portfolio).
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=portfolio&theme=bear)](https://github.com/luizfverissimo/portfolio)
+### 🚧 I’m currently working on: [Birds of Brazil](https://github.com/luizfverissimo/birds-of-brazil-portfolio).
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=birds-of-brazil-portfolio&theme=bear)](https://github.com/luizfverissimo/birds-of-brazil-portfolio)
 
 
 ### 🔧 Languages and Tools:
