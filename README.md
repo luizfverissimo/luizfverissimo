@@ -7,8 +7,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-luizfverissimo@gmail.com-2E2D2E?style=for-the-badge&labelColor=FD3A69&logo=gmail&logoColor=white&link=mailto:uizfverissimo@gmail.com)](mailto:luizfverissimo@gmail.com)
 
 
-### 🚧 I’m currently working on: [Birds of Brazil](https://github.com/luizfverissimo/birds-of-brazil-portfolio).
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=birds-of-brazil-portfolio&theme=bear)](https://github.com/luizfverissimo/birds-of-brazil-portfolio)
+### 🚧 I’m currently working on: [The Old Book - SpellBook Manager for DnD 5e](https://github.com/luizfverissimo/the-old-book).
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=the-old-book&theme=bear)](https://github.com/luizfverissimo/the-old-book)
 
 
 ### 🔧 Languages and Tools:
