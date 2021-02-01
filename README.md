@@ -1,4 +1,4 @@
-# <img alt="Logo LF Verissimo" src="./lf_verissimo_logo_light.png" width="230px" />
+# [<img alt="Logo LF Verissimo" src="./lf_verissimo_logo_light.png" width="230px" />](https://lfverissimo.com)
 ## Fullstack Developer
 
 [![Portfolio](https://img.shields.io/badge/-https://lfverissimo.com-2E2D2E?style=for-the-badge&labelColor=FD3A69&label=Portfolio&link=https://lfverissimo.com)](https://lfverissimo.com)
