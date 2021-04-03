@@ -7,8 +7,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-luizfverissimo@gmail.com-2E2D2E?style=for-the-badge&labelColor=FD3A69&logo=gmail&logoColor=white&link=mailto:uizfverissimo@gmail.com)](mailto:luizfverissimo@gmail.com)
 
 
-### 🚧 I’m currently working on: [Octo Battle](https://github.com/luizfverissimo/the-old-book).
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=octo-battle&theme=bear)](https://github.com/luizfverissimo/octo-battle)
+### 🚧 I’m currently working on: [NerdCast RPG Plauer](https://github.com/luizfverissimo/nerdcast-rpg-player).
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=nerdcast-rpg-player&theme=bear)](https://github.com/luizfverissimo/nerdcast-rpg-player)
 
 
 ### 🔧 Languages and Tools:
