@@ -7,8 +7,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-luizfverissimo@gmail.com-2E2D2E?style=for-the-badge&labelColor=FD3A69&logo=gmail&logoColor=white&link=mailto:uizfverissimo@gmail.com)](mailto:luizfverissimo@gmail.com)
 
 
-### 🚧 I’m currently working on: [NerdCast RPG Player](https://github.com/luizfverissimo/nerdcast-rpg-player).
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=nerdcast-rpg-player&theme=bear)](https://github.com/luizfverissimo/nerdcast-rpg-player)
+### 🚧 I’m currently working on: [Move It - Electron](https://github.com/luizfverissimo/moveit-electron).
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=moveit-electron&theme=bear)](https://github.com/luizfverissimo/moveit-electron)
 
 
 ### 🔧 Languages and Tools:
