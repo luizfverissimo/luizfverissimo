@@ -7,7 +7,7 @@
 
 
 ### 🚧 I’m currently working on: [promo-spider-web](https://github.com/luizfverissimo/promo-spider-web).
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=promo-spider-web&theme=bear)](https://github.com/luizfverissimo/moveit-electron)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=promo-spider-web&theme=bear)](https://github.com/luizfverissimo/promo-spider-web)
 
 
 ### 🔧 Languages and Tools:
