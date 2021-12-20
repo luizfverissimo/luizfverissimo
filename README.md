@@ -6,8 +6,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-luizfverissimo@gmail.com-2E2D2E?style=for-the-badge&labelColor=FD3A69&logo=gmail&logoColor=white&link=mailto:uizfverissimo@gmail.com)](mailto:luizfverissimo@gmail.com)
 
 
-### 🚧 I’m currently working on: [promo-spider-web](https://github.com/luizfverissimo/promo-spider-web).
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=promo-spider-web&theme=bear)](https://github.com/luizfverissimo/promo-spider-web)
+### 🚧 I’m currently working on: [CrowdCoin](https://github.com/luizfverissimo/crowdcoin).
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=crowdcoin-web&theme=bear)](https://github.com/luizfverissimo/crowdcoin)
 
 
 ### 🔧 Languages and Tools:
