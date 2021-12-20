@@ -7,7 +7,7 @@
 
 
 ### 🚧 I’m currently working on: [CrowdCoin](https://github.com/luizfverissimo/crowdcoin).
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=crowdcoin-web&theme=bear)](https://github.com/luizfverissimo/crowdcoin)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=crowdcoin&theme=bear)](https://github.com/luizfverissimo/crowdcoin)
 
 
 ### 🔧 Languages and Tools:
