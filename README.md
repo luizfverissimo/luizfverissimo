@@ -19,4 +19,5 @@
 <!-- [![LF Verissimo's github stats](https://github-readme-stats.vercel.app/api?username=luizfverissimo&theme=bear)](https://github.com/anuraghazra/github-readme-stats)<br/> -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizfverissimo&layout=compact&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=luizfverissimo&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=luizfverissimo&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy) -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luizfverissimo&theme=dark" alt="luizfverissimo" /></p>
