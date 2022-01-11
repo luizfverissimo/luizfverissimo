@@ -17,3 +17,10 @@
 
 
 ### 🔧 Projects:
+[<img src="/images/frontend.png" alt="frontend">](https://github.com/luizfverissimo/luizfverissimo/blob/c2797c263b430cb1675e74c89b5af3767fc5f5fb/frontend.md)
+<img src="/images/fullstack.png" alt="fullstack">
+<img src="/images/jamstack.png" alt="jamstack">
+<img src="/images/desktop.png" alt="desktop">
+<img src="/images/mobile.png" alt="mobile">
+<img src="/images/blockchain.png" alt="Blockchain">
+<img src="/images/landing.png" alt="landing">
