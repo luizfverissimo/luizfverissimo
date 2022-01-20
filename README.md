@@ -17,10 +17,11 @@
 
 
 ### 💻 Projects:
-[<img src="/images/frontend.png" alt="frontend">](https://github.com/luizfverissimo/luizfverissimo/blob/30f2df5dadde232b902153e8fde0a089e3712343/frontend.md)
-[<img src="/images/fullstack.png" alt="fullstack">](https://github.com/luizfverissimo/luizfverissimo/blob/30f2df5dadde232b902153e8fde0a089e3712343/fullstack.md) 
-[<img src="/images/jamstack.png" alt="jamstack">](https://github.com/luizfverissimo/luizfverissimo/blob/30f2df5dadde232b902153e8fde0a089e3712343/jamstack.md)
-[<img src="/images/mobile.png" alt="mobile">](https://github.com/luizfverissimo/luizfverissimo/blob/30f2df5dadde232b902153e8fde0a089e3712343/mobile.md)
-[<img src="/images/desktop.png" alt="desktop">](https://github.com/luizfverissimo/luizfverissimo/blob/30f2df5dadde232b902153e8fde0a089e3712343/desktop.md)
-[<img src="/images/blockchain.png" alt="Blockchain">](https://github.com/luizfverissimo/luizfverissimo/blob/30f2df5dadde232b902153e8fde0a089e3712343/blockchain.md)
-[<img src="/images/landing.png" alt="landing">](https://github.com/luizfverissimo/luizfverissimo/blob/30f2df5dadde232b902153e8fde0a089e3712343/landing.md)
+[<img src="/images/frontend.png" alt="frontend">](https://github.com/luizfverissimo/luizfverissimo/blob/d2cbafd35b41b75d4d2e31cb8cdd931a35f02024/frontend.md)
+[<img src="/images/fullstack.png" alt="fullstack">](https://github.com/luizfverissimo/luizfverissimo/blob/d2cbafd35b41b75d4d2e31cb8cdd931a35f02024/fullstack.md) 
+[<img src="/images/jamstack.png" alt="jamstack">](https://github.com/luizfverissimo/luizfverissimo/blob/d2cbafd35b41b75d4d2e31cb8cdd931a35f02024/jamstack.md)
+[<img src="/images/mobile.png" alt="mobile">](https://github.com/luizfverissimo/luizfverissimo/blob/d2cbafd35b41b75d4d2e31cb8cdd931a35f02024/mobile.md)
+[<img src="/images/desktop.png" alt="desktop">](https://github.com/luizfverissimo/luizfverissimo/blob/d2cbafd35b41b75d4d2e31cb8cdd931a35f02024/desktop.md)
+[<img src="/images/blockchain.png" alt="Blockchain">](https://github.com/luizfverissimo/luizfverissimo/blob/d2cbafd35b41b75d4d2e31cb8cdd931a35f02024/blockchain.md)
+[<img src="/images/landing.png" alt="landing">](https://github.com/luizfverissimo/luizfverissimo/blob/d2cbafd35b41b75d4d2e31cb8cdd931a35f02024/landing.md)
+
