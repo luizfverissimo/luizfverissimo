@@ -17,11 +17,55 @@
 
 
 ### 💻 Projects:
-[<img src="/images/frontend.png" alt="frontend">](https://github.com/luizfverissimo/luizfverissimo/blob/d2cbafd35b41b75d4d2e31cb8cdd931a35f02024/frontend.md)
-[<img src="/images/fullstack.png" alt="fullstack">](https://github.com/luizfverissimo/luizfverissimo/blob/d2cbafd35b41b75d4d2e31cb8cdd931a35f02024/fullstack.md) 
-[<img src="/images/jamstack.png" alt="jamstack">](https://github.com/luizfverissimo/luizfverissimo/blob/d2cbafd35b41b75d4d2e31cb8cdd931a35f02024/jamstack.md)
-[<img src="/images/mobile.png" alt="mobile">](https://github.com/luizfverissimo/luizfverissimo/blob/d2cbafd35b41b75d4d2e31cb8cdd931a35f02024/mobile.md)
-[<img src="/images/desktop.png" alt="desktop">](https://github.com/luizfverissimo/luizfverissimo/blob/d2cbafd35b41b75d4d2e31cb8cdd931a35f02024/desktop.md)
-[<img src="/images/blockchain.png" alt="Blockchain">](https://github.com/luizfverissimo/luizfverissimo/blob/d2cbafd35b41b75d4d2e31cb8cdd931a35f02024/blockchain.md)
-[<img src="/images/landing.png" alt="landing">](https://github.com/luizfverissimo/luizfverissimo/blob/d2cbafd35b41b75d4d2e31cb8cdd931a35f02024/landing.md)
 
+<details>
+  <summary><img src="/images/frontend.png" alt="frontend"></summary>
+
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=bio-link&theme=bear)](https://github.com/luizfverissimo/bio-link)<br/>
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=promo-spider-web&theme=bear)](https://github.com/luizfverissimo/promo-spider-web)<br/>
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=pokedex-svelte&theme=bear)](https://github.com/luizfverissimo/pokedex-svelte)<br/>
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=octo-battle&theme=bear)](https://github.com/luizfverissimo/octo-battle)<br/>
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=the-old-book&theme=bear)](https://github.com/luizfverissimo/the-old-book)
+</details>
+
+<details>
+  <summary><img src="/images/fullstack.png" alt="fullstack"></summary>
+
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=offer-aggregator&theme=bear)](https://github.com/luizfverissimo/offer-aggregator)<br/>
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=url-shortener&theme=bear)](https://github.com/luizfverissimo/url-shortener)<br/>
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=ruptiva-code-challenge-top10&theme=bear)](https://github.com/luizfverissimo/ruptiva-code-challenge-top10)
+</details>
+
+<details>
+  <summary><img src="/images/jamstack.png" alt="jamstack"></summary>
+
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=dms-ecommerce&theme=bear)](https://github.com/luizfverissimo/dms-ecommerce)<br/>
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=birds-of-brazil-portfolio&theme=bear)](https://github.com/luizfverissimo/birds-of-brazil-portfolio)<br/>
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=free-games-aggregator&theme=bear)](https://github.com/luizfverissimo/free-games-aggregator)<br/>
+</details>
+
+<details>
+  <summary><img src="/images/desktop.png" alt="desktop"></summary>
+
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=whatsapp-message-sender&theme=bear)](https://github.com/luizfverissimo/whatsapp-message-sender)<br/>
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=moveit-electron&theme=bear)](https://github.com/luizfverissimo/moveit-electron)<br/>
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=react-electron-router-boilerplate&theme=bear)](https://github.com/luizfverissimo/react-electron-router-boilerplate)
+</details>
+
+<details>
+  <summary><img src="/images/blockchain.png" alt="Blockchain"></summary>
+
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=crowdcoin&theme=bear)](https://github.com/luizfverissimo/crowdcoin)<br/>
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=darumaGL-nft&theme=bear)](https://github.com/luizfverissimo/darumaGL-nft)
+</details>
+
+<details>
+  <summary><img src="/images/landing.png" alt="landing"></summary>
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=nerdcast-rpg-player&theme=bear)](https://github.com/luizfverissimo/nerdcast-rpg-player)<br/>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=portfolio-3&theme=bear)](https://github.com/luizfverissimo/portfolio-3)<br/>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=portfolio-2&theme=bear)](https://github.com/luizfverissimo/portfolio-2)<br/>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=portfolio&theme=bear)](https://github.com/luizfverissimo/portfolio)
+
+</details>
