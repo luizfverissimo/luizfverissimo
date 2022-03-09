@@ -14,7 +14,7 @@
 ### 💻 Projects:
 
 <details>
-  <summary><img src="/images/frontend.png" alt="frontend"></summary>
+  <summary><strong>Front-end</strong></summary>
 
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=bio-link&theme=bear)](https://github.com/luizfverissimo/bio-link)<br/>
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=promo-spider-web&theme=bear)](https://github.com/luizfverissimo/promo-spider-web)<br/>
@@ -24,7 +24,7 @@
 </details>
 
 <details>
-  <summary><img src="/images/fullstack.png" alt="fullstack"></summary>
+  <summary><strong>Fullstack</strong></summary>
 
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=offer-aggregator&theme=bear)](https://github.com/luizfverissimo/offer-aggregator)<br/>
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=url-shortener&theme=bear)](https://github.com/luizfverissimo/url-shortener)<br/>
@@ -32,7 +32,7 @@
 </details>
 
 <details>
-  <summary><img src="/images/jamstack.png" alt="jamstack"></summary>
+  <summary><strong>JAM Stack</strong></summary>
 
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=dms-ecommerce&theme=bear)](https://github.com/luizfverissimo/dms-ecommerce)<br/>
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=birds-of-brazil-portfolio&theme=bear)](https://github.com/luizfverissimo/birds-of-brazil-portfolio)<br/>
@@ -40,7 +40,7 @@
 </details>
 
 <details>
-  <summary><img src="/images/desktop.png" alt="desktop"></summary>
+  <summary><strong>Desktop</strong></summary>
 
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=whatsapp-message-sender&theme=bear)](https://github.com/luizfverissimo/whatsapp-message-sender)<br/>
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=moveit-electron&theme=bear)](https://github.com/luizfverissimo/moveit-electron)<br/>
@@ -48,14 +48,14 @@
 </details>
 
 <details>
-  <summary><img src="/images/blockchain.png" alt="Blockchain"></summary>
+  <summary><strong>Blockchain</strong></summary>
 
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=crowdcoin&theme=bear)](https://github.com/luizfverissimo/crowdcoin)<br/>
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=darumaGL-nft&theme=bear)](https://github.com/luizfverissimo/darumaGL-nft)
 </details>
 
 <details>
-  <summary><img src="/images/landing.png" alt="landing"></summary>
+  <summary><strong>Landing page</strong></summary>
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=nerdcast-rpg-player&theme=bear)](https://github.com/luizfverissimo/nerdcast-rpg-player)<br/>
