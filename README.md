@@ -36,6 +36,18 @@
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=free-games-aggregator&theme=bear)](https://github.com/luizfverissimo/free-games-aggregator)<br/>
 </details>
 
+
+<details>
+  <summary><strong>Mobile Apps</strong></summary>
+
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=dice-roller&theme=bear)](https://github.com/luizfverissimo/dice-roller)<br/>
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=placar-truco&theme=bear)](https://github.com/luizfverissimo/placar-truco)<br/>
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=scotland-yard&theme=bear)](https://github.com/luizfverissimo/scotland-yard)<br/>
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=shop-app-rnavigatio5-update&theme=bear)](https://github.com/luizfverissimo/shop-app-rnavigatio5-update)
+</details>
+
+
+
 <details>
   <summary><strong>Desktop</strong></summary>
 
