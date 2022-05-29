@@ -71,5 +71,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=portfolio-3&theme=bear)](https://github.com/luizfverissimo/portfolio-3)<br/>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=portfolio-2&theme=bear)](https://github.com/luizfverissimo/portfolio-2)<br/>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=portfolio&theme=bear)](https://github.com/luizfverissimo/portfolio)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=eafup-lp&theme=bear)](https://github.com/luizfverissimo/eafup-lp)
 
 </details>
