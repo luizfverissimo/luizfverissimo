@@ -5,13 +5,13 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LF%20Verissimo-2E2D2E?style=for-the-badge&labelColor=FD3A69&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-fernando-veríssimo-485323164)](https://www.linkedin.com/in/luiz-fernando-veríssimo-485323164)
 [![Gmail Badge](https://img.shields.io/badge/-luizfverissimo@gmail.com-2E2D2E?style=for-the-badge&labelColor=FD3A69&logo=gmail&logoColor=white&link=mailto:uizfverissimo@gmail.com)](mailto:luizfverissimo@gmail.com)
 
-### 🔧 Languages and Tools:
+## 🔧 Languages and Tools:
 <img align="center" alt="Visual Studio Code" src="https://img.shields.io/badge/-VS%20Code-2E2D2E?style=flat&labelColor=FD3A69&logo=visual-studio-code&logoColor=white" /> <img align="center" alt="HTML5" src="https://img.shields.io/badge/-HTML5-2E2D2E?style=flat&labelColor=FD3A69&logo=HTML5&logoColor=white" /> <img align="center" alt="CSS3" src="https://img.shields.io/badge/-CSS3-2E2D2E?style=flat&labelColor=FD3A69&logo=css3&logoColor=white" /> <img align="center" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-2E2D2E?style=flat&labelColor=FD3A69&logo=javascript&logoColor=white" /> <img align="center" alt="Svelte" src="https://img.shields.io/badge/-Svelte-2E2D2E?style=flat&labelColor=FD3A69&logo=svelte&logoColor=white" /> <img align="center" alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-2E2D2E?style=flat&labelColor=FD3A69&logo=vue.js&logoColor=white" /> <img align="center" alt="React" src="https://img.shields.io/badge/-React-2E2D2E?style=flat&labelColor=FD3A69&logo=react&logoColor=white" /> <img align="center" alt="Next.js" src="https://img.shields.io/badge/-Next.js-2E2D2E?style=flat&labelColor=FD3A69&logo=next.js&logoColor=white" /> <img align="center" alt="SASS" src="https://img.shields.io/badge/-Sass-2E2D2E?style=flat&labelColor=FD3A69&logo=sass&logoColor=white" /> <img align="center" alt="Stylus" src="https://img.shields.io/badge/-Stylus-2E2D2E?style=flat&labelColor=FD3A69&logo=stylus&logoColor=white" /> <img align="center" alt="Styled Components" src="https://img.shields.io/badge/-Styled%20Components-2E2D2E?style=flat&labelColor=FD3A69&logo=styled-components&logoColor=white" /> <img align="center" alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-2E2D2E?style=flat&labelColor=FD3A69&logo=tailwind-css&logoColor=white" /> <img align="center" alt="Node.js" src="https://img.shields.io/badge/-Node.js-2E2D2E?style=flat&labelColor=FD3A69&logo=node.js&logoColor=white" /> <img align="center" alt="Electron" src="https://img.shields.io/badge/-Electron-2E2D2E?style=flat&labelColor=FD3A69&logo=electron&logoColor=white" /> <img align="center" alt="Express" src="https://img.shields.io/badge/-Express-2E2D2E?style=flat&labelColor=FD3A69&logo=express&logoColor=white" /> <img align="center" alt="Puppeteer" src="https://img.shields.io/badge/-Puppeteer-2E2D2E?style=flat&labelColor=FD3A69&logo=puppeteer&logoColor=white" /> <img align="center" alt="Prisma" src="https://img.shields.io/badge/-Prisma-2E2D2E?style=flat&labelColor=FD3A69&logo=prisma&logoColor=white" /> <img align="center" alt="Firebase" src="https://img.shields.io/badge/-Firebase-2E2D2E?style=flat&labelColor=FD3A69&logo=firebase&logoColor=white" /> <img align="center" alt="Heroku" src="https://img.shields.io/badge/-Heroku-2E2D2E?style=flat&labelColor=FD3A69&logo=heroku&logoColor=white" /> <img align="center" alt="Jest" src="https://img.shields.io/badge/-Jest-2E2D2E?style=flat&labelColor=FD3A69&logo=jest&logoColor=white" /> <img align="center" alt="Cypress" src="https://img.shields.io/badge/-Cypress-2E2D2E?style=flat&labelColor=FD3A69&logo=cypress&logoColor=white" />
 
-### 💻 Projects:
+## 💻 Projects:
 
 <details>
-  <summary><strong>Front-end</strong></summary>
+  <summary><strong><h3>Front-end</strong></h3></summary>
 
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=bio-link&theme=bear)](https://github.com/luizfverissimo/bio-link)<br/>
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=promo-spider-web&theme=bear)](https://github.com/luizfverissimo/promo-spider-web)<br/>
@@ -21,7 +21,7 @@
 </details>
 
 <details>
-  <summary><strong>Fullstack</strong></summary>
+  <summary><strong><h3>Fullstack</h3></strong></summary>
 
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=offer-aggregator&theme=bear)](https://github.com/luizfverissimo/offer-aggregator)<br/>
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=url-shortener&theme=bear)](https://github.com/luizfverissimo/url-shortener)<br/>
@@ -29,7 +29,7 @@
 </details>
 
 <details>
-  <summary><strong>JAM Stack</strong></summary>
+  <summary><strong><h3>JAM Stack</h3></strong></summary>
 
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=dms-ecommerce&theme=bear)](https://github.com/luizfverissimo/dms-ecommerce)<br/>
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=birds-of-brazil-portfolio&theme=bear)](https://github.com/luizfverissimo/birds-of-brazil-portfolio)<br/>
@@ -38,7 +38,7 @@
 
 
 <details>
-  <summary><strong>Mobile Apps</strong></summary>
+  <summary><strong><h3>Mobile Apps</h3></strong></summary>
 
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=dice-roller&theme=bear)](https://github.com/luizfverissimo/dice-roller)<br/>
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=placar-truco&theme=bear)](https://github.com/luizfverissimo/placar-truco)<br/>
@@ -49,7 +49,7 @@
 
 
 <details>
-  <summary><strong>Desktop</strong></summary>
+  <summary><strong><h3>Desktop</h3></strong></summary>
 
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=whatsapp-message-sender&theme=bear)](https://github.com/luizfverissimo/whatsapp-message-sender)<br/>
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=moveit-electron&theme=bear)](https://github.com/luizfverissimo/moveit-electron)<br/>
@@ -57,14 +57,14 @@
 </details>
 
 <details>
-  <summary><strong>Blockchain</strong></summary>
+  <summary><strong><h3>Blockchain</h3></strong></summary>
 
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=crowdcoin&theme=bear)](https://github.com/luizfverissimo/crowdcoin)<br/>
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=darumaGL-nft&theme=bear)](https://github.com/luizfverissimo/darumaGL-nft)
 </details>
 
 <details>
-  <summary><strong>Landing page</strong></summary>
+  <summary><strong><h3>Landing page</h3></strong></summary>
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=nerdcast-rpg-player&theme=bear)](https://github.com/luizfverissimo/nerdcast-rpg-player)<br/>
