@@ -20,6 +20,8 @@
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=the-old-book&theme=bear)](https://github.com/luizfverissimo/the-old-book)
 </details>
 
+---
+
 <details>
   <summary><strong><h3>Fullstack</h3></strong></summary>
 
@@ -27,6 +29,8 @@
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=url-shortener&theme=bear)](https://github.com/luizfverissimo/url-shortener)<br/>
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=ruptiva-code-challenge-top10&theme=bear)](https://github.com/luizfverissimo/ruptiva-code-challenge-top10)
 </details>
+
+---
 
 <details>
   <summary><strong><h3>JAM Stack</h3></strong></summary>
@@ -36,6 +40,7 @@
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=free-games-aggregator&theme=bear)](https://github.com/luizfverissimo/free-games-aggregator)<br/>
 </details>
 
+---
 
 <details>
   <summary><strong><h3>Mobile Apps</h3></strong></summary>
@@ -46,7 +51,7 @@
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=shop-app-rnavigatio5-update&theme=bear)](https://github.com/luizfverissimo/shop-app-rnavigatio5-update)
 </details>
 
-
+---
 
 <details>
   <summary><strong><h3>Desktop</h3></strong></summary>
@@ -56,12 +61,16 @@
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=react-electron-router-boilerplate&theme=bear)](https://github.com/luizfverissimo/react-electron-router-boilerplate)
 </details>
 
+---
+
 <details>
   <summary><strong><h3>Blockchain</h3></strong></summary>
 
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=crowdcoin&theme=bear)](https://github.com/luizfverissimo/crowdcoin)<br/>
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=darumaGL-nft&theme=bear)](https://github.com/luizfverissimo/darumaGL-nft)
 </details>
+
+---
 
 <details>
   <summary><strong><h3>Landing page</h3></strong></summary>
