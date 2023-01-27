@@ -64,15 +64,6 @@
 ---
 
 <details>
-  <summary><strong><h3>Blockchain</h3></strong></summary>
-
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=crowdcoin&theme=bear)](https://github.com/luizfverissimo/crowdcoin)<br/>
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=darumaGL-nft&theme=bear)](https://github.com/luizfverissimo/darumaGL-nft)
-</details>
-
----
-
-<details>
   <summary><strong><h3>Landing page</h3></strong></summary>
 
 
