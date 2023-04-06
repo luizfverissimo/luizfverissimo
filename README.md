@@ -13,6 +13,7 @@
 <details>
   <summary><strong><h3>Front-end</strong></h3></summary>
 
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=idle-space-mining&theme=bear)](https://github.com/luizfverissimo/idle-space-mining)<br/>
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=bio-link&theme=bear)](https://github.com/luizfverissimo/bio-link)<br/>
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=promo-spider-web&theme=bear)](https://github.com/luizfverissimo/promo-spider-web)<br/>
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizfverissimo&repo=pokedex-svelte&theme=bear)](https://github.com/luizfverissimo/pokedex-svelte)<br/>
